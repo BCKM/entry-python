@@ -1,0 +1,5 @@
+# 4.2 Jarayonga yo‘naltirilgan (Procedural)
+
+Dasturlash paradigmalari orasida "jarayonga yo‘naltirilgan" (procedural) paradigma mavjud. Bu dasturlashning eng an'anaviy paradigmasi bo‘lib, dastlab paydo bo‘lgan paradigmalar orasida eng birinchisi hisoblanadi. Biz bilib-bilmay Entry blokli kodlashda ham ushbu paradigmani qo‘llab kelganmiz. [3.8-bo‘lim](../3.-syntax/3.8-function.md)da funksiyalarning zaruriyati va maqsadini yaxshi tushungan edik. Dastur ichida qayta foydalanish imkoniyati (reusability) yuqori bo‘lgan kodlarni funksiyalarga (function) ajratib, ularni chaqirish orqali kod yozish usuli jarayon yo‘naltirilgan paradigma sifatida tanilgan. Ilgari funksiya (function) atamasi o‘rniga "jarayon" (procedure) yoki "sub-programma" (sub-routine) deb atalgan. Shu sababli, jarayon yo‘naltirilgan dasturlashning inglizcha nomi "procedural" bo‘lib kelgan.
+
+Jarayonga yo‘naltirilgan paradigmaning misollari oldingi bo‘limlarda funksiyalarni o‘rganishda ko‘rgan misollardan unchalik farq qilmaydi, shuning uchun o‘sha misollarni bu yerda ham qo‘llash kifoya.
