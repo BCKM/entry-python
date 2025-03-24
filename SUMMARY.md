@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Entry-Python darsturlash asoslari](README.md)
-* [1. Entry vs Entry-Python](1.-entry-vs-entry-python.md)
+* [1. Entry vs Entry-Python](entry-python_ozi_nima.md)
 * [2. Entry-Python bilan ishlashni boshlash](2.-getting-started.md)
 * [3. Entry-Python yordamida Python sintaksisining asoslarini o‘rganamiz](3.-syntax/README.md)
   * [3.1 "Hello World" namuna kodini tushunish](3.-syntax/3.1-hw.md)

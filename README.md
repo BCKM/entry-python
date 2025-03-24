@@ -1,6 +1,6 @@
 # Entry-Python darsturlash asoslari
 
-Ushbu kitob, Entry blokli kodlashdan Python dasturlash tili yordamida matnli kodlashga o‘tishni istaydiganlar va o‘quvchilarga bunda yordam berishni maqsad qilgan o'qituvchilar uchun yozilgan. Entry-Python o‘quvchilarga blokli kodlashdan amaliy matnli kodlashga qiyinchiliksiz o‘tishda yordam beradigan ko'prik bo'lib xizmat qiladi.&#x20;
+Ushbu kitob, Entry blokli kodlashni to'liq o'rganib olib keyin Python matnli kodlashga o‘tishni istaydigan o‘quvchilar va ularga bunda yordam berishni maqsad qilgan o'qituvchilar uchun yozilgan. Entry-Python o‘quvchilarga blokli kodlashdan amaliy matnli kodlashga qiyinchiliksiz o‘tishda yordam beradigan ko'prik bo'lib xizmat qiladi.&#x20;
 
 #### O‘zgarishlar tarixi:
 
@@ -14,10 +14,8 @@ Ushbu kitob, Entry blokli kodlashdan Python dasturlash tili yordamida matnli kod
 
 **O**‘**zbek tiliga tarjima: Komron (**[knmv2311@gmail.com](mailto:knmv2311@gmail.com)**)**
 
-**Malumot materiallari 1: Entry >** [**Rasmiy**](./#ozgarishlar-tarixi) [**o**‘](https://playentry.org/material)[**quv materiallar** ](./)**> Entry Python**
+**Malumot materiallari:** [**Entry Python kitobning 1-versiyasi**](https://t.me/entry_uz/1154)
 
-**Malumot materiallari 2:** **"Entry-Python Foydalanish Qo**‘**llanmasi ppt (Entry-Python qo**‘**llanmasi, Entry-Python Asosiy Misol)" Entry oflayn ichida joylashgan**
-
-**Mualliflik huquqi:** [**https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
+**Mualliflik huquqi:** [**https://creativecommons.org/licenses/by-nc-sa/4.0/**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
