@@ -12,7 +12,7 @@ Endi, misol yordamida obyektlarning o‘zaro hamkorlik qilish uchun xabar almash
 
 {% tabs %}
 {% tab title="Ijro natijasi" %}
-<figure><img src="../.gitbook/assets/image.png" alt="" width="315"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="315"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Blokli kodlash" %}

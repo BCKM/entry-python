@@ -1,6 +1,6 @@
 # 3.8 Funksiya (Function)
 
-Nihoyat, endi bu bo‘limning oxirgi qismi — funksiya mavzusi qoldi. Funksiyalarni biz hozirgacha faqat kimdir biz uchun oldindan yaratib qo‘ygan funksiyalarni chaqirib ishlatib ko‘rganmiz. Ammo o‘zimizning funksiyalarimizni (foydalanuvchi funksiyalari) hali hech qachon yaratib ko‘rmaganmiz. Endi esa shu funksiyalarni o‘zimiz yozishni sinab ko‘ramiz. [3.7-bo‘lim](3.7-random.md)da yozgan o‘yin kodimizning ayrim qismlarini funksiya sifatida alohida amalga oshirib, xuddi shu funksionallikni qayta bajarish orqali funksiyalarni o‘rganamiz.
+Nihoyat, endi bu bo‘limning oxirgi qismi — funksiya mavzusi qoldi. Funksiyalarni biz hozirgacha faqat kimdir biz uchun oldindan yaratib qo‘ygan funksiyalarni chaqirib ishlatib ko‘rganmiz. Ammo o‘zimizning funksiyalarimizni (foydalanuvchi funksiyalari) hali hech qachon yaratib ko‘rmaganmiz. Endi esa shu funksiyalarni o‘zimiz yozishni sinab ko‘ramiz. [3.7-bo‘lim](tasodifiy_son.md)da yozgan o‘yin kodimizning ayrim qismlarini funksiya sifatida alohida amalga oshirib, xuddi shu funksionallikni qayta bajarish orqali funksiyalarni o‘rganamiz.
 
 Avval kodning qaysi qismini foydalanuvchi funksiyasi (o‘zimizning shaxsiy funksiyamiz) sifatida alohida ajratib yaratishni aniqlashimiz kerak. Masalan, foydalanuvchi kiritgan son bilan kompyuter o‘ylagan sondan farqini solishtirish qismiga e'tibor qaratamiz. Shu qismni ajratib, o‘zimizning foydalanuvchi funksiyamizni yaratamiz va ikki sonni solishtirish vazifasini shu funksiyaga topshiramiz.
 
@@ -83,9 +83,9 @@ def when_start():
 {% endtab %}
 {% endtabs %}
 
-Biz ushbu bo‘limning [birinchi bob](3.1-hw.md)ida funksiyalarni qanday yaratishni o‘rganganimiz sababli, agar hali funksiyalarni yaratish sintaksisini tushunishda qiyinchiliklar bo‘lsa, o‘sha bo‘limga qaytib, uni takrorlashni tavsiya qilamiz.
+Biz ushbu bo‘limning [birinchi bob](hello_world.md)ida funksiyalarni qanday yaratishni o‘rganganimiz sababli, agar hali funksiyalarni yaratish sintaksisini tushunishda qiyinchiliklar bo‘lsa, o‘sha bo‘limga qaytib, uni takrorlashni tavsiya qilamiz.
 
-🔢 8\~17-qatorlardagi kod [avvalgi dastur kodi](3.7-random.md)ning 16\~24-qatorlarini ajratib, **compare\_num** deb nomlangan foydalanuvchi funksiyasini yaratishga bag‘ishlangan. Ushbu funksiya ikkita son qiymatini parametr sifatida qabul qiladi va funksiya ichida bu ikki sonning kattaliklarini solishtirish natijasiga ko‘ra shartli bajarish natijasini ko‘rsatadi. Agar funksiyalarni yaratish va ulardan foydalanish usulini allaqachon o‘zlashtirgan bo‘lsangiz, bu qismni tushunishda hech qanday qiyinchilik bo‘lmaydi.
+🔢 8\~17-qatorlardagi kod [avvalgi dastur kodi](tasodifiy_son.md)ning 16\~24-qatorlarini ajratib, **compare\_num** deb nomlangan foydalanuvchi funksiyasini yaratishga bag‘ishlangan. Ushbu funksiya ikkita son qiymatini parametr sifatida qabul qiladi va funksiya ichida bu ikki sonning kattaliklarini solishtirish natijasiga ko‘ra shartli bajarish natijasini ko‘rsatadi. Agar funksiyalarni yaratish va ulardan foydalanish usulini allaqachon o‘zlashtirgan bo‘lsangiz, bu qismni tushunishda hech qanday qiyinchilik bo‘lmaydi.
 
 Biroq, ushbu foydalanuvchi funksiyasi amalda unchalik samarali emas, chunki **funksiyaning asosiy maqsadi — dastur kodidagi turli qismlarda takrorlanadigan funksionallikni bitta funksiya orqali almashtirib, umumiy kodni soddalashtirish, shu bilan birga kodning o‘qilishiga qulaylik yaratish va keyinchalik yuzaga kelishi mumkin bo‘lgan kodni tahrirlash jarayonlarini osonlashtirishdir.** Ammo hozir yaratilgan foydalanuvchi funksiyasi bu maqsadga unchalik mos emas va asosan o‘rganish maqsadida — o‘z funksiyamizni yaratib, undan foydalanishni sinab ko‘rish uchun sun’iy misol sifatida yaratilganini aytish mumkin.
 

@@ -8,7 +8,7 @@ Keling, **voqeaga asoslangan yoki voqeaga yo‘naltirilgan dasturlash paradigma*
 
 Ya'ni, dasturchi bunday voqealar sodir bo‘lishini oldindan taxmin qilib, har bir voqea sodir bo‘lganda qaysi vazifani bajarish kerakligini ko‘rsatadigan tarzda kod yozishni **voqeaga asoslangan dasturlash paradigam**si deb atash mumkin. Biz allaqachon Entry platformasida shu usulda kod yozish tajribasiga egamiz, shuning uchun ushbu tushunchani anglash yoki amalda qo‘llashda qiyinchilik bo‘lmaydi, deb o‘ylayman. Faqatgina, Entry-Python da bu kabi voqealar uchun qanday funksiyalardan foydalanish kerakligini bilishimiz kifoya.
 
-Quyidagi jadvalda Entry da mavjud bo‘lgan voqealar turlari va ushbu voqealarga mos keladigan, oldindan aniqlangan (kelishilgan) **kolbek(callback) funksiyalar** ([3.1-bo‘limdagi kolbek funksiyalarga qarang](../3.-syntax/3.1-hw.md#kolbek-callback-funksiyasi-nima)) ro‘yxatini ko‘rishingiz mumkin.
+Quyidagi jadvalda Entry da mavjud bo‘lgan voqealar turlari va ushbu voqealarga mos keladigan, oldindan aniqlangan (kelishilgan) **kolbek(callback) funksiyalar** ([3.1-bo‘limdagi kolbek funksiyalarga qarang](../boshlash/hello_world.md#kolbek-callback-funksiyasi-nima)) ro‘yxatini ko‘rishingiz mumkin.
 
 | Voqea turi                              | Blokli kodlashdagi bloklar                                               | Matnli kodlash uchun kolbek funksiyasi |
 | --------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- |

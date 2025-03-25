@@ -62,7 +62,7 @@ Bu yerda, matematik ma'noda chap va o‘ng tomondagi qiymatlar bir-biriga tengmi
 
 🔢 10\~11-qatordagi kodlar to‘plami dasturda foydalanuvchiga dasturimizning qanday dastur ekanligini tushuntirish uchun foydalaniladi. 10-qatordagi (ko‘rsatish)chiqarish funksiyasi ilgari ishlatilgan, 11-qatordagi **Entry.wait\_for\_sec(2)** kodi esa birinchi marta uchraydi. Uning ma’nosini tushunish qiyin emas: bu Entry kutubxonasidagi **wait\_for\_sec** funksiyasini chaqirishdir. Ushbu funksiya blok kodlashdagi "\~ soniya kutish" blokiga o‘xshaydi. Kutish davomiyligini funksiyaga argument sifatida uzatish kerak, va bu yerda 10-qatorda chiqarilgan matnni ekranda 2 soniya davomida ko‘rsatib turish uchun 2 qiymati berilgan.
 
-🔢 13\~16-qatordagi kodlar to‘plami foydalanuvchidan ketma-ket ikkita tasodifiy son kiritishni so‘raydi va ularni mos ravishda **first** va **second** o‘zgaruvchilariga saqlaydi. Nima uchun foydalanuvchi kiritgan qiymatni Entry.answer() orqali o‘qib, saqlash kerakligi haqida avvalgi bobda[ kiritish-chiqarish funksiyalari](3.2-in-out.md) qismida tushuntirilgan.
+🔢 13\~16-qatordagi kodlar to‘plami foydalanuvchidan ketma-ket ikkita tasodifiy son kiritishni so‘raydi va ularni mos ravishda **first** va **second** o‘zgaruvchilariga saqlaydi. Nima uchun foydalanuvchi kiritgan qiymatni Entry.answer() orqali o‘qib, saqlash kerakligi haqida avvalgi bobda[ kiritish-chiqarish funksiyalari](kiritish_chiqarish.md) qismida tushuntirilgan.
 
 🔢 18-qatorda esa **first** va **second** o‘zgaruvchilarida saqlangan qiymatlar o‘qilib, ularning yig‘indisi uchinchi o‘zgaruvchi, ya'ni **result** ga saqlanadi.
 
